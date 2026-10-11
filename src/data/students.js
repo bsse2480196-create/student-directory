@@ -1,8 +1,8 @@
 export const initialStudents = [
-  { id: 101, name: "Jane Doe", major: "Computer Science", year: 2, gpa: 3.8 },
-  { id: 102, name: "Mary Doe", major: "Computer Science", year: 2, gpa: 3.8 },
-  { id: 103, name: "Gant Doe", major: "Computer Science", year: 2, gpa: 3.8 },
-  { id: 104, name: "Amm Doe", major: "Computer Science", year: 2, gpa: 3.8 },
+  { id: 101, name: "Hanita", major: "DSA", year: 2, gpa: 3.8 },
+  { id: 102, name: "Mariam", major: "Maths", year: 2, gpa: 3.8 },
+  { id: 103, name: "Maheen", major: "Scd", year: 2, gpa: 3.8 },
+  { id: 104, name: "Shiza", major: "Digital Logic Design", year: 2, gpa: 3.8 },
   { id: 105, name: "Ali Khan", major: "Software Engineering", year: 3, gpa: 3.6 },
   { id: 106, name: "Sara Ahmed", major: "Computer Science", year: 1, gpa: 3.9 },
   { id: 107, name: "Omar Siddiqui", major: "Data Science", year: 2, gpa: 3.5 },
