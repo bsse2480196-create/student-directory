@@ -1,0 +1,17 @@
+.page-breadcrumb {
+  --bs-breadcrumb-divider-color: #adb5bd;
+  --bs-breadcrumb-item-active-color: #fff;
+}
+.page-breadcrumb a { color: #fff; text-decoration: none; }
+.page-breadcrumb a:hover { text-decoration: underline; }
+
+.add-btn { background-color: #0d2a6b; border-color: #0d2a6b; }
+.add-btn:hover { background-color: #0a2055; border-color: #0a2055; }
+
+.student-card { overflow: hidden; }
+.avatar-box { background-color: #c4c6ca; height: 150px; }
+
+.pagination .page-link { cursor: pointer; }
+
+.footer-link { color: #fff; text-decoration: none; }
+.footer-link:hover { text-decoration: underline; }
